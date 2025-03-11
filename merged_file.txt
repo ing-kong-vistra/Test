@@ -1,1 +1,1 @@
-A file that was "merged" into the main branch.
+A file that was "merged" into the main branch, with an update.
